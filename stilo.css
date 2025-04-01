@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://wallpapers.com/images/high/musical-1920-x-1021-background-xy1nwkqray5nnikr.webp);
+    background-size: cover;
+}
+h1{
+    color: white;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+}
+
+p{
+    color: white;
+    font-size: 16px;
+}
